@@ -26,4 +26,4 @@ This includes but is not restricted to the following topics:
 * Collaborative methods
 * Future research challenges of time series analysis
 
-Check the schedule [on this page](/program)!
+Check the schedule [on this page](/LITSA2021/program)!
