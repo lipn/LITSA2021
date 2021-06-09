@@ -21,4 +21,5 @@ The organizing team can be contacted by e-mail at `lastname@lipn.univ-paris13.fr
 * [Christian Derquenne](https://www.researchgate.net/profile/Christian_Derquenne), EDF, France
 * [Loïc Giraldi](https://dblp.org/pid/150/7661.html), CEA, France
 * [Jérôme Lacaille](https://www.researchgate.net/profile/Jerome_Lacaille), Safran Aircraft Engines, France
+* [Vincent Lemaire](http://www.vincentlemaire-labs.fr/), Orange Labs, France
 * [Pierre-François Marteau](https://people.irisa.fr/Pierre-Francois.Marteau/), IRISA - Université Bretagne Sud, France
