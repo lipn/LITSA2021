@@ -9,7 +9,7 @@ Workshop paper submissions take place on this page: [https://wi-lab.com/cybercha
 
 All deadlines are **11:59pm Pacific Daylight Time (PDT)**.
 
-* Workshop paper submissions: September 3, 2021
+* Workshop paper submissions: ~~September 3~~ <span style="color: red">September 12</span>, 2021
 * Workshop paper notification: September 24, 2021
 * Camera-ready deadline and copyright forms: October 1, 2021
 * **Workshop date: December 7, 2021**
