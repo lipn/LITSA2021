@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>December 7, 2021. Hosted by the <a href="https://icdm2021.auckland.ac.nz/">IEEE ICDM 2021</a> conference in Auckland, New Zealand.</p>
+     <p>December 7, 2021. Hosted by the <a href="https://icdm2021.auckland.ac.nz/">IEEE ICDM 2021</a> conference in Auckland, New Zealand (now virtual).</p>
   header_text_feature_image: assets/img/graph.jpg
   footer_text: >
    Organized with love by <a href="https://lipn.univ-paris13.fr/">LIPN (Université Sorbonne Paris Nord)</a>.<br/>
